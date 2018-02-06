@@ -1,0 +1,9 @@
+python -m SimpleHTTPServer 5555
+
+iptables -I INPUT -p tcp --dport 5555 -j ACCEPT
+
+# link of simple http server with upload feature.
+https://gist.github.com/UniIsland/3346170
+
+# upload to python web server:
+curl -X POST -F file=@<path-to-file> http://<host-ip>:8000
