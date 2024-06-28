@@ -1,6 +1,6 @@
 # Python Notes
 
-<detail>
+<details>
 <summary>
   Notes on Python.
 </summary>
