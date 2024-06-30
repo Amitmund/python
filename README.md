@@ -136,3 +136,17 @@ print(str(hours) , "hours," , minutes  , "minutes, and" , final_seconds , "secon
 
 ---
 
+## Note: 004
+
+### Naming convention
+
+- Class names start with an Uppercase
+- Other identifiers start with lowercase
+- starting with single _ : private identifier
+- starting with double __ : strongly private
+- start and end with double __ : language defined special name.
+
+
+---
+
+  
