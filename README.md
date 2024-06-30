@@ -62,4 +62,31 @@ chai("ginger tea")
 
 ---
 
+## Note: 001
+
+```
+print("Hello"+"Python") # output: HelloPython (No space when we use +)
+print("Hello", "Python") #Output: Hello Python (When we use , it add a space in between these two string.)
+```
+
+---
+
+## Note: 002
+
+```
+print("My age is " , 36) # This will work. As we are not doing any concanitation. ( So, good to use , ) 
+
+print("My age is" + 36)  # This will give you error: "TypeError: must be str, not int"  # + expect both to be string.
+```
+
+```
+Using + works for combining two strings — it concatenates them. It also works for two numbers — it adds the numbers together.
+
+But, it can't join a string and a number.
+```
+
+
+---
+
+
 
