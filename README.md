@@ -3,7 +3,7 @@
 Notes from multiple learning sources. Thank you all.
 
 - https://github.com/hiteshchoudhary/chai-aur-python
-- [Google IT Automation with Python Certificate]: https://www.youtube.com/watch?v=UYU_ki7likk&list=PLTZYG7bZ1u6oJu7Imgx8FTOjyDNwesrm5&index=1
+- [Google IT Automation with Python Certificate] (https://www.youtube.com/watch?v=UYU_ki7likk&list=PLTZYG7bZ1u6oJu7Imgx8FTOjyDNwesrm5&index=1)
 
 ---
 
