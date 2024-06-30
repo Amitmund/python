@@ -92,6 +92,10 @@ print("My age is" , 27)
 print("My age is " + "27")
 ```
 
+```
+print("Our combined age is 27" + "32") # output: Our combined age is 2732
+```
+
 ---
 
 
