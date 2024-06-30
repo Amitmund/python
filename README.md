@@ -95,6 +95,7 @@ print("My age is " + "27")
 ```
 print("Our combined age is 27" + "32") # output: Our combined age is 2732
 ```
+![Python Concatenation example!](/images/0001_python_image.png "Python Concatenation example")
 
 ---
 
