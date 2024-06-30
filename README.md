@@ -64,16 +64,21 @@ chai("ginger tea")
 
 ## Note: 001
 
-```
+<details>
+  ```
 print("Hello"+"Python") # output: HelloPython (No space when we use +)
 print("Hello", "Python") #Output: Hello Python (When we use , it add a space in between these two string.)
 ```
+</details>
+
 
 ---
 
 ## Note: 002
 
-```
+<details>
+  
+  ```
 print("My age is" , 36) # This will work. As we are not doing any concanitation. ( So, good to use , ) 
 
 print("My age is " + 36)  # This will give you error: "TypeError: must be str, not int"  # + expect both to be string.
@@ -97,9 +102,13 @@ print("Our combined age is 27" + "32") # output: Our combined age is 2732
 ```
 ![Python Concatenation example!](/images/0001_python_image.png "Python Concatenation example")
 
+</details>
+
 ---
 
 ## Note: 003
+
+<details>
 
 ```
 seconds = 14926
@@ -132,11 +141,17 @@ print(str(hours) , "hours," , minutes  , "minutes, and" , final_seconds , "secon
 
 ```
 
+  
+</details>
+
+
 
 
 ---
 
 ## Note: 004
+
+<details>
 
 ### Naming convention
 
@@ -145,6 +160,10 @@ print(str(hours) , "hours," , minutes  , "minutes, and" , final_seconds , "secon
 - starting with single _ : private identifier
 - starting with double __ : strongly private
 - start and end with double __ : language defined special name.
+
+
+  
+</details>
 
 
 ---
