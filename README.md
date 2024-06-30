@@ -74,9 +74,9 @@ print("Hello", "Python") #Output: Hello Python (When we use , it add a space in 
 ## Note: 002
 
 ```
-print("My age is " , 36) # This will work. As we are not doing any concanitation. ( So, good to use , ) 
+print("My age is" , 36) # This will work. As we are not doing any concanitation. ( So, good to use , ) 
 
-print("My age is" + 36)  # This will give you error: "TypeError: must be str, not int"  # + expect both to be string.
+print("My age is " + 36)  # This will give you error: "TypeError: must be str, not int"  # + expect both to be string.
 ```
 
 ```
@@ -85,6 +85,12 @@ Using + works for combining two strings — it concatenates them. It also works 
 But, it can't join a string and a number.
 ```
 
+- This both will work. In comma, we don't need to add space.
+- In the second one we are using +, but giveing a space at the end of is, and using "27" as string.
+```
+print("My age is" , 27)
+print("My age is " + "27")
+```
 
 ---
 
