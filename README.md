@@ -99,5 +99,21 @@ print("Our combined age is 27" + "32") # output: Our combined age is 2732
 
 ---
 
+## Note: 003
 
+```
+seconds = 14926
+
+hours = seconds//3600
+
+minutes = (seconds - hours * 3600)//60
+
+final_seconds = seconds%60
+
+print(str(seconds) , "seconds is the same as")
+print(str(hours) , "hours," , minutes  , "minutes, and" , final_seconds , "seconds")
+
+```
+
+---
 
