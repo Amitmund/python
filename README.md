@@ -65,10 +65,12 @@ chai("ginger tea")
 ## Note: 001
 
 <details>
-  ```
+  
+```
 print("Hello"+"Python") # output: HelloPython (No space when we use +)
 print("Hello", "Python") #Output: Hello Python (When we use , it add a space in between these two string.)
 ```
+
 </details>
 
 
