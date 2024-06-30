@@ -5,6 +5,13 @@ Notes from multiple learning sources. Thank you all.
 - [Chai aur python](https://github.com/hiteshchoudhary/chai-aur-python)
 - [Google IT Automation with Python Certificate](https://www.youtube.com/watch?v=UYU_ki7likk&list=PLTZYG7bZ1u6oJu7Imgx8FTOjyDNwesrm5&index=1)
 
+
+## Few of the best python book:
+- Python Crash Course [ref youtube link](https://www.youtube.com/watch?v=MqywbqLmjp4)
+- Python Programming By John Zelle
+- Algorithms Illuminated - Path1: The Basics - By Tim Roughgarden (Not in python, but fir Algo.
+- Python Tools for Scientiest.
+- Effective Panda
 ---
 
 # Chapter1
