@@ -1,0 +1,4 @@
+ipaddress of this host is: 192.168.31.10 and 127.0.0.1
+this is not a valid ip address: 999.999.999.999
+How ever this is just a regular file
+and this is a public dns of google: 8.8.8.8
