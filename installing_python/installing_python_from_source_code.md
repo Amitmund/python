@@ -1,8 +1,20 @@
 ## Download and install of the Python from Source Code
+
+cd to the python directory.
+
 ./configure
 make
 make-test
 sudo make altinstall
+
+
+python3.14 --version
+
+
+# virtualenv with different version of python
+virtualenv -p python3.14 myPython314
+cd myPython314
+source bin/activate
 
 
 
