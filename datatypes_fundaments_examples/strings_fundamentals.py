@@ -25,16 +25,6 @@ print(fullname.title())
 print(f"Hello, {full_name.title()}!")
 
 
-# --------------------------------------------------------------------------------
-
-# IMP
-# t-strings in python 3.14
-name = "amit mund"
-message = t"Hello,{name}!"
-print(message)
-message = t"Hello,{name}.title()!"
-print(message)
-
 
 # --------------------------------------------------------------------------------
 # r-string ("raw string")
@@ -53,3 +43,15 @@ valid_raw_string = r"C:\path\to\folder" + "\\"
 print(valid_raw_string) # Output: C:\path\to\folder\
 
 # --------------------------------------------------------------------------------
+
+# Not learned yet. Need to explore a lot more.
+
+# IMP
+# t-strings in python 3.14
+# Its not the string type, but its template type
+
+name = "amit mund"
+message = t"Hello,{name}!"
+print(message)
+message = t"Hello,{name}.title()!"
+print(message)
