@@ -13,30 +13,30 @@ print(f"My first language was {languages[1]}")
 
 
 # Lists are mutable, which mean you can update the list.
-bike = ['honda', 'yamaha', 'suzuki']
-print(bike)
-bike[0] = 'hero' # Update the index 0th place.
-print(bike)
+bikes = ['honda', 'yamaha', 'suzuki']
+print(bikes)
+bikes[0] = 'hero' # Update the index 0th place.
+print(bikes)
 
-bike.append('ducati') # append at the end.
+bikes.append('ducati') # append at the end.
 print(bike)
 
 
 
 
 # Creating empty list[] and later adding the value
-bike[]
-bike.append('Honda')
-bike.append('Yamaha')
-bike.append('suzuki')
-print(bike)
+bikes[]
+bikes.append('Honda')
+bikes.append('Yamaha')
+bikes.append('suzuki')
+print(bikes)
 
 
 
 
 # Removing item from list[]
-del bike[0]
-del bike[-1]
+del bikes[0]
+del bikes[-1]
 # With delete, you will not know the value removed.
 
 
@@ -44,14 +44,14 @@ del bike[-1]
 
 # pop() method.
 # The pop() method, removed the last item from the list, but also allowed you to work on it.
-bike = ['honda', 'yamaha', 'hero']
-poped_bike = bike.pop()
+bikes = ['honda', 'yamaha', 'hero']
+poped_bike = bikes.pop()
 print(poped_bike) # hero
 
 # pop(0)
-print(bike)
-my_first_bike = bike.pop(0) # 0th index. It will also update the bike[]
-print(bike)
+print(bikes)
+my_first_bike = bikes.pop(0) # 0th index. It will also update the bike[]
+print(bikes)
 print(f"My first bike was {my_first_bike}.title()")
 
 
@@ -59,10 +59,10 @@ print(f"My first bike was {my_first_bike}.title()")
 
 
 # Removing items by value from list[]
-bike = ['honda', 'yamaha', 'hero', 'x']
-print(bike)
-bike.remove("hero")
-print(bike)
+bikes = ['honda', 'yamaha', 'hero', 'x']
+print(bikes)
+bikes.remove("hero")
+print(bikes)
 # remove(), remove only the first occurance.
 
 
@@ -71,15 +71,19 @@ print(bike)
 
 
 # list methods()
-bike = ['hero', 'honda', 'yamaha', 'suzuki']
-bike.sort() # permanent change # if sort is a method, it should be Caps S in sort.
-bke.sort(reverse=True)
+bikes = ['hero', 'honda', 'yamaha', 'suzuki']
+bikes.sort() # permanent change # if sort is a method, it should be Caps S in sort.
+bikes.sort(reverse=True)
 
-print(sorted(bike)) # temp changes of the order.
+print(sorted(bikes)) # temp changes of the order.
 
-bike.reverse()
-print(bike)
-len(bike)
+bikes.reverse()
+print(bikes)
+len(bikes)
+
+
+
+
 
 
 
